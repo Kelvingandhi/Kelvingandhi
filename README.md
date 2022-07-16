@@ -1,9 +1,6 @@
-## Hi 👋 I am Kelvin
+# Hi 👋 I am Kelvin
 
----
-
-### Data Engineer
----
+## Data Engineer
 
 - :earth_americas: I'm based in New York
 - :bar_chart: I’m currently learning Advanced Data Engineering Concepts.
