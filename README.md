@@ -12,7 +12,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="45" heigth="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="45" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" width="40" heigth="25"/>&nbsp;
-<img src="https://gcdnb.pbrd.co/images/yOQ9SbATt7Us.png" title="SQL" width="40" heigth="40"/>&nbsp;
+<img src="https://gist.githubusercontent.com/Kelvingandhi/15ee38f7cb70204ba514201f2401647a/raw/10be540fec4e7812cc9401268d32425e691d8f50/Golang.svg" title="Golang" width="60" height="40"/>&nbsp;
+<img src="https://gist.githubusercontent.com/Kelvingandhi/15ee38f7cb70204ba514201f2401647a/raw/a20a7226910563e69007c97f20a391125ca45500/SQL.svg" title="SQL" width="40" heigth="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/gist/Kelvingandhi/15ee38f7cb70204ba514201f2401647a/raw/d41323d1c5ed1c0289dba124c38d2b7afbe0b260/Apache_Spark.svg" title="Spark" width="80" heigth="100"/>&nbsp;
 <img src="https://raw.githubusercontent.com/gist/Kelvingandhi/15ee38f7cb70204ba514201f2401647a/raw/8b03b332311042c8e3185170cc9e28bbde175539/Apache_Hadoop.svg" title="Hadoop" width="55" heigth="70"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresDB" width="40" height="40"/>&nbsp;
