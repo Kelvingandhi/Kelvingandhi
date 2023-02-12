@@ -2,10 +2,16 @@
 
 ## Data Engineer
 
-- :earth_americas: I'm based in New York
-- :bar_chart: I’m currently learning Advanced Data Engineering Concepts.
+- :earth_americas: I'm based in New York :statue_of_liberty:
+
+- :bar_chart: I’m currently learning Cloud & Advanced Data Engineering Concepts
+
 - 💬 Ask me about Data Pipeline ETL project collaboration
+
+- :tennis: Always up for Tennis :smile:
+
 - :octocat: Let's Git it !
+
 
 ### Languages and Tools :
 <div>
