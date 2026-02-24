@@ -1,12 +1,10 @@
 # Hi 👋 I am Kelvin
 
-## Data Engineer
+## Software Engineer
 
 - :earth_americas: I'm based in New York :statue_of_liberty:
 
-- :bar_chart: I’m currently learning Cloud & Advanced Data Engineering Concepts
-
-- 💬 Ask me about Data Pipeline ETL project collaboration
+- :bar_chart: Geeking around AI, Cloud & Advanced Software Engineering
 
 - :tennis: Always up for Tennis :smile:
 
