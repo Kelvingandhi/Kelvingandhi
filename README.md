@@ -4,7 +4,7 @@
 
 - :earth_americas: I'm based in New York :statue_of_liberty:
 
-- :bar_chart: Geeking around AI, Cloud & Advanced Software Engineering
+- :bar_chart: Geeking around AI, Cloud & Software Engineering
 
 - :tennis: Always up for Tennis :smile:
 
